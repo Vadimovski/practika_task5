@@ -32,4 +32,4 @@
 
 4. Запустите приложение:
       ```bash
-   pip install openpyxl
+   python student.py
